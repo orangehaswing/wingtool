@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wingtoolparent/wingtool-all/wingtool-all.iml" filepath="$PROJECT_DIR$/wingtoolparent/wingtool-all/wingtool-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wingtoolparent/wingtool-aop/wingtool-aop.iml" filepath="$PROJECT_DIR$/wingtoolparent/wingtool-aop/wingtool-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wingtoolparent/wingtool-bloomFilter/wingtool-bloomFilter.iml" filepath="$PROJECT_DIR$/wingtoolparent/wingtool-bloomFilter/wingtool-bloomFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wingtoolparent/wingtool-core/wingtool-core.iml" filepath="$PROJECT_DIR$/wingtoolparent/wingtool-core/wingtool-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wingtoolparent/wingtool-log/wingtool-log.iml" filepath="$PROJECT_DIR$/wingtoolparent/wingtool-log/wingtool-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wingtoolparent/wingtool-system/wingtool-system.iml" filepath="$PROJECT_DIR$/wingtoolparent/wingtool-system/wingtool-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wingtoolparent/wingtoolbloomFilter.iml" filepath="$PROJECT_DIR$/wingtoolparent/wingtoolbloomFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wingtoolparent/wingtoolparent.iml" filepath="$PROJECT_DIR$/wingtoolparent/wingtoolparent.iml" />
+    </modules>
+  </component>
+</project>

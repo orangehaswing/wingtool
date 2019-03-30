@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wingtool-all" />
+        <module name="wingtool-aop" />
+        <module name="wingtool-bloomFilter" />
+        <module name="wingtool-core" />
+        <module name="wingtool-log" />
+        <module name="wingtool-system" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="wingtool-all" target="7" />
+      <module name="wingtool-aop" target="7" />
+      <module name="wingtool-bloomFilter" target="7" />
+      <module name="wingtool-core" target="7" />
+      <module name="wingtool-log" target="7" />
+      <module name="wingtool-system" target="7" />
+      <module name="wingtoolparent" target="7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
