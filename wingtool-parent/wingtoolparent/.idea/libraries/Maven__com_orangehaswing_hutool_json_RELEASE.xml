@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.orangehaswing:hutool-json:RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/orangehaswing/hutool-json/RELEASE/hutool-json-RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/orangehaswing/hutool-json/RELEASE/hutool-json-RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/orangehaswing/hutool-json/RELEASE/hutool-json-RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

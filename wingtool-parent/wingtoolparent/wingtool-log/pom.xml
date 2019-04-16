@@ -14,7 +14,7 @@
 
     <artifactId>wingtool-log</artifactId>
     <name>${project.artifactId}</name>
-    <description>Hutool 日志封装</description>
+    <description>日志封装</description>
 
     <properties>
         <!-- versions -->

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.orangehaswing:hutool-dfa:RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/orangehaswing/hutool-dfa/RELEASE/hutool-dfa-RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/orangehaswing/hutool-dfa/RELEASE/hutool-dfa-RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/orangehaswing/hutool-dfa/RELEASE/hutool-dfa-RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

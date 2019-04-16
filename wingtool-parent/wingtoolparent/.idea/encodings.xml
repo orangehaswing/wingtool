@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wingtool-all" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wingtool-aop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wingtool-bloomFilter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wingtool-cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wingtool-captcha" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wingtool-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wingtool-cron" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wingtool-crypto" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wingtool-db" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wingtool-dfa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wingtool-extra" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wingtool-http" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wingtool-json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wingtool-log" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wingtool-poi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wingtool-script" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wingtool-setting" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wingtool-socket" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wingtool-system" charset="UTF-8" />
+  </component>
+</project>

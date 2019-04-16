@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wingtool-all" />
+        <module name="wingtool-aop" />
+        <module name="wingtool-bloomFilter" />
+        <module name="wingtool-cache" />
+        <module name="wingtool-captcha" />
+        <module name="wingtool-core" />
+        <module name="wingtool-cron" />
+        <module name="wingtool-crypto" />
+        <module name="wingtool-db" />
+        <module name="wingtool-dfa" />
+        <module name="wingtool-extra" />
+        <module name="wingtool-http" />
+        <module name="wingtool-json" />
+        <module name="wingtool-log" />
+        <module name="wingtool-poi" />
+        <module name="wingtool-script" />
+        <module name="wingtool-setting" />
+        <module name="wingtool-socket" />
+        <module name="wingtool-system" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="wingtool-all" target="7" />
+      <module name="wingtool-aop" target="7" />
+      <module name="wingtool-bloomFilter" target="7" />
+      <module name="wingtool-cache" target="7" />
+      <module name="wingtool-captcha" target="7" />
+      <module name="wingtool-core" target="7" />
+      <module name="wingtool-cron" target="7" />
+      <module name="wingtool-crypto" target="7" />
+      <module name="wingtool-db" target="7" />
+      <module name="wingtool-dfa" target="7" />
+      <module name="wingtool-extra" target="7" />
+      <module name="wingtool-http" target="7" />
+      <module name="wingtool-json" target="7" />
+      <module name="wingtool-log" target="7" />
+      <module name="wingtool-poi" target="7" />
+      <module name="wingtool-script" target="7" />
+      <module name="wingtool-setting" target="7" />
+      <module name="wingtool-socket" target="7" />
+      <module name="wingtool-system" target="7" />
+      <module name="wingtoolparent" target="7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

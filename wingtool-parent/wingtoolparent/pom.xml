@@ -12,6 +12,19 @@
         <module>wingtool-log</module>
         <module>wingtool-system</module>
         <module>wingtool-all</module>
+        <module>wingtool-cache</module>
+        <module>wingtool-setting</module>
+        <module>wingtool-cron</module>
+        <module>wingtool-captcha</module>
+        <module>wingtool-crypto</module>
+        <module>wingtool-http</module>
+        <module>wingtool-json</module>
+        <module>wingtool-socket</module>
+        <module>wingtool-script</module>
+        <module>wingtool-poi</module>
+        <module>wingtool-extra</module>
+        <module>wingtool-db</module>
+        <module>wingtool-dfa</module>
     </modules>
 
     <groupId>com.orangehaswing</groupId>

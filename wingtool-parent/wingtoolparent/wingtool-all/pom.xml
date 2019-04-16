@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
     <parent>
         <artifactId>wingtoolparent</artifactId>
         <groupId>com.orangehaswing</groupId>
@@ -31,79 +31,79 @@
             <version>${project.parent.version}</version>
         </dependency>
         <dependency>
-            <groupId>cn.hutool</groupId>
-            <artifactId>hutool-cache</artifactId>
-            <version>4.5.3</version>
+            <groupId>com.orangehaswing</groupId>
+            <artifactId>wingtool-cache</artifactId>
+            <version>${project.parent.version}</version>
         </dependency>
         <dependency>
-            <groupId>cn.hutool</groupId>
-            <artifactId>hutool-crypto</artifactId>
-            <version>4.5.3</version>
+            <groupId>com.orangehaswing</groupId>
+            <artifactId>wingtool-crypto</artifactId>
+            <version>${project.parent.version}</version>
         </dependency>
         <dependency>
-            <groupId>cn.hutool</groupId>
-            <artifactId>hutool-db</artifactId>
-            <version>4.5.3</version>
+            <groupId>com.orangehaswing</groupId>
+            <artifactId>wingtool-db</artifactId>
+            <version>${project.parent.version}</version>
         </dependency>
         <dependency>
-            <groupId>cn.hutool</groupId>
-            <artifactId>hutool-dfa</artifactId>
-            <version>4.5.3</version>
+            <groupId>com.orangehaswing</groupId>
+            <artifactId>wingtool-dfa</artifactId>
+            <version>${project.parent.version}</version>
         </dependency>
         <dependency>
-            <groupId>cn.hutool</groupId>
-            <artifactId>hutool-extra</artifactId>
-            <version>4.5.3</version>
+            <groupId>com.orangehaswing</groupId>
+            <artifactId>wingtool-extra</artifactId>
+            <version>${project.parent.version}</version>
         </dependency>
         <dependency>
-            <groupId>cn.hutool</groupId>
-            <artifactId>hutool-http</artifactId>
-            <version>4.5.3</version>
+            <groupId>com.orangehaswing</groupId>
+            <artifactId>wingtool-http</artifactId>
+            <version>${project.parent.version}</version>
         </dependency>
         <dependency>
-            <groupId>cn.hutool</groupId>
-            <artifactId>hutool-log</artifactId>
-            <version>4.5.3</version>
+            <groupId>com.orangehaswing</groupId>
+            <artifactId>wingtool-log</artifactId>
+            <version>${project.parent.version}</version>
         </dependency>
         <dependency>
-            <groupId>cn.hutool</groupId>
-            <artifactId>hutool-script</artifactId>
-            <version>4.5.3</version>
+            <groupId>com.orangehaswing</groupId>
+            <artifactId>wingtool-script</artifactId>
+            <version>${project.parent.version}</version>
         </dependency>
         <dependency>
-            <groupId>cn.hutool</groupId>
-            <artifactId>hutool-setting</artifactId>
-            <version>4.5.3</version>
+            <groupId>com.orangehaswing</groupId>
+            <artifactId>wingtool-setting</artifactId>
+            <version>${project.parent.version}</version>
         </dependency>
         <dependency>
-            <groupId>cn.hutool</groupId>
-            <artifactId>hutool-system</artifactId>
-            <version>4.5.3</version>
+            <groupId>com.orangehaswing</groupId>
+            <artifactId>wingtool-system</artifactId>
+            <version>${project.parent.version}</version>
         </dependency>
         <dependency>
-            <groupId>cn.hutool</groupId>
-            <artifactId>hutool-cron</artifactId>
-            <version>4.5.3</version>
+            <groupId>com.orangehaswing</groupId>
+            <artifactId>wingtool-cron</artifactId>
+            <version>${project.parent.version}</version>
         </dependency>
         <dependency>
-            <groupId>cn.hutool</groupId>
-            <artifactId>hutool-json</artifactId>
-            <version>4.5.3</version>
+            <groupId>com.orangehaswing</groupId>
+            <artifactId>wingtool-json</artifactId>
+            <version>${project.parent.version}</version>
         </dependency>
         <dependency>
-            <groupId>cn.hutool</groupId>
-            <artifactId>hutool-poi</artifactId>
-            <version>4.5.3</version>
+            <groupId>com.orangehaswing</groupId>
+            <artifactId>wingtool-poi</artifactId>
+            <version>${project.parent.version}</version>
         </dependency>
         <dependency>
-            <groupId>cn.hutool</groupId>
-            <artifactId>hutool-captcha</artifactId>
-            <version>4.5.3</version>
+            <groupId>com.orangehaswing</groupId>
+            <artifactId>wingtool-captcha</artifactId>
+            <version>${project.parent.version}</version>
         </dependency>
         <dependency>
-            <groupId>cn.hutool</groupId>
-            <artifactId>hutool-socket</artifactId>
-            <version>4.5.3</version>
+            <groupId>com.orangehaswing</groupId>
+            <artifactId>wingtool-socket</artifactId>
+            <version>${project.parent.version}</version>
         </dependency>
     </dependencies>
 
